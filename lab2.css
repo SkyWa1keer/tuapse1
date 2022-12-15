@@ -1,0 +1,31 @@
+/* .box{
+    background: url(fon2.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+} */
+body{
+   
+    background-image: url(fon3.jpg);
+    height: 100vh;
+    /* background-repeat: no-repeat; */
+    background-position: center;
+    background-size: cover;
+
+    }
+
+.aaa{ 
+    background-color: rgb(98, 174, 241);
+    border: 5px;
+    border-style: solid;
+    border-color: DarkTurquoise;
+    border-radius: 2px;
+    }
+    .table{ 
+        background-color: rgb(98, 174, 241);
+        border: 5px;
+        border-style: solid;
+        border-color: DarkTurquoise;
+        border-radius: 2px;
+        }
